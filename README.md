@@ -3,7 +3,7 @@
 A real-time community forum and chat platform built with the **MERN** stack and **Socket.io**.
 Post, comment, vote, chat live in per-category rooms, get notified the moment someone replies to you, and moderate everything from an admin dashboard.
 
-[![CI](https://github.com/<your-username>/connecthub/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/connecthub/actions)
+[![CI](https://github.com/zubiajunaid954-bot/connecthub/actions/workflows/ci.yml/badge.svg)](https://github.com/zubiajunaid954-bot/connecthub/actions)
 
 > **Live demo:** _add your Vercel URL here_ · **API:** _add your Render URL here_
 
